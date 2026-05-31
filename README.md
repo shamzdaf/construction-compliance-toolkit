@@ -1,4 +1,4 @@
-# INDOT Construction Compliance Toolkit
+# Construction Compliance Toolkit
 
 **A Python-based toolkit for highway construction coordination, compliance verification, and quality control.**
 
